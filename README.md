@@ -24,7 +24,7 @@ On the other hand, if your target environment is Windows it is easier to just in
 
 1. Clone or download this repository
    ```
-   git clone https://github.com/RustHydra/ClangSight
+   git clone https://github.com/Michelangelo-S/ClangSight
    cd ClangSight
    ```
 2. Configure with CMake
@@ -37,11 +37,11 @@ On the other hand, if your target environment is Windows it is easier to just in
    ninja
    ```
 4. Run the app
-	1. Linux:
+	- Linux:
 	   ```
 	   ./ClangSight
 	   ```
-	2. Windows:
+	- Windows:
 	   ```
 	   .\ClangSight.exe
 	   ```
