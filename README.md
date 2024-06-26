@@ -24,7 +24,7 @@ On the other hand, if your target environment is Windows it is easier to just in
 
 1. Clone or download this repository
    ```
-   git clone https://github.com/Michelangelo-S/ClangSight
+   git clone REPO_URL
    cd ClangSight
    ```
 2. Configure with CMake
